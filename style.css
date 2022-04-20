@@ -1,0 +1,360 @@
+body{
+background-color: rgb(233,250,252);
+margin: 0;
+padding: 0;
+}
+.Landing-Page nav{
+    text-align: right;
+
+}
+.Pet-and-family nav li{
+    display: inline;
+    margin:  0 5% 0% 0;
+    color: #4d5a60;
+
+}
+#ypet{
+    margin: 20px;
+}
+.Pet-and-family h2 span{
+    color: #12a8e8;
+}
+.Pet-and-family h3 {
+    max-width:200px; 
+    text-align: end; 
+    border-bottom: 1px solid rgb(233, 152, 2); 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    margin-left: 65px;
+ }
+.Pet-and-family h3 span{
+    background: rgb(233,250,252); 
+    padding:0 20px; 
+    color: rgb(238, 158, 10);
+}
+h1{
+    margin-left: 5%;
+    font-size: 60px;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+h4{
+    margin-left: 5%;
+    font-size: 19px;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    color: #718087;
+}
+.button{
+    border: none;
+    color: white;
+    padding: 17px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-left: 70px;
+    background-color: rgb(58, 177, 179);
+    font-size: 15px;
+    border-radius: 8%;
+    margin-top: 20px;
+   
+
+}
+.fa-play{
+    color: rgb(58, 177, 179);
+    margin-left: 20px;
+    display: inline-block;
+    background-color: white;
+    padding: 18px;
+    border-radius: 50px;
+}
+.vet{
+    margin-left: 55%;
+    margin-top: -500px;
+    
+}
+p{
+    width: 400px;
+    height: 400px;
+    margin-left: 585px;
+    margin-top: -538px;
+    border-radius: 350px;
+    padding: 40px;
+    border: rgb(163, 195, 197) solid 70px;
+}
+.Services{
+    background-color: rgb(248,254,255);
+    padding-bottom: 105px;
+}
+#wserv{
+    font-family: 'Akshar', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+.our-services h4{
+    margin-left: 70%;
+    padding-bottom: 80px;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+
+}
+.radiology{
+    width: 318px;
+    height: 280px;
+    background-color: white;
+    margin-left: 75px;
+}
+#rassistant{
+    margin-left: 30px;
+    padding-top: 140px;
+
+}
+.radiology h5{
+    margin-left: 30px;
+    color: #718087;
+
+}
+.fa-airplay{
+    color: #4d5a60;
+}
+.row1{
+    display: flex;
+}
+.row2{
+    margin-top: 50px;
+    display: flex;
+    border-radius: 15px;
+}
+.vets{
+    background-color: rgb(233,250,252);
+}
+.vet-info{
+   float: right;
+   margin: 40px;
+   
+}
+.vet-info  h2 h5{
+    width: 100%;
+    float: right;
+    font-size: 0.6em;
+
+}
+#one{
+    font-size: 60px;
+}
+.vet-info h5{
+    font-size: 18px;
+    color: #718087;
+}
+.vet-one{
+    margin:8% 5%;
+    float:left;
+    height:490px;
+    width:385px;
+    background-color: rgb(163, 195, 197);
+    border-radius: 3%;
+
+}
+.button2{
+    border: none;
+    color: white;
+    padding: 17px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-left: 5px;
+    background-color: rgb(58, 177, 179);
+    font-size: 15px;
+    border-radius: 8%;
+    margin-top: 20px;
+   
+
+}
+.answers{
+    background-color: #e3f3ef;
+    margin: 0px;
+    margin-top: 44%;
+    padding: 0;
+}
+.solid{
+    width: 40%;
+    height: 50%;
+    background-color: white;
+    padding-top: 18%;
+    
+    font-size: 25px;
+ 
+ }
+ .solidb{
+    width: 40%;
+    height: 50%;
+    background-color: white;
+    padding-top: 18%;
+    margin-top: 10%;
+    margin-left: 50;
+    font-size: 25px;
+
+ }
+ 
+ .black .h3{
+ font-size: 15px;
+ margin-left: 10px;
+ }
+ .black .li{
+ font-size: 12px;
+ }
+ .solid h2{
+    color: rgb(0, 0, 0);
+    margin-left: 12px;
+ }
+ .solid li{
+    color: rgb(120, 120, 128);
+    margin-left: 12px;
+ }
+ #young{
+     padding: 5px;
+     background-color: #4d5a60;
+     border-radius: 90%;
+ }
+ #african{
+     padding: 5px;
+     background-color: #4d5a60;
+     border-radius: 100%;
+ }
+#two{
+    font-size: 50px;
+    padding: 200px;
+}
+#coms{
+    font-size: 40px;
+    margin-right: 59%;
+}
+.cats h4{
+    margin-left: 70%;
+    padding-bottom: 80px;
+}
+.box1{
+width: 550px;
+height: 600px;
+background-color: aqua;
+margin-bottom: 70px;
+}
+.staff{
+    padding-bottom: 16%;
+    background-color: rgb(248,254,255);
+}
+.see {
+    color: #12a8e8;
+    margin-left: 85%;
+
+}
+.staff-one{
+    width: 318px;
+    height: 380px;
+    background-color: rgb(227,252,254);
+    margin-left: 75px;
+    border-radius: 3%;
+
+}
+.row3{
+    display: flex;
+}
+#photo{
+    margin-top: 40px;
+}
+.model{
+    background: rgb(233,250,252);
+    padding: 20px 15px 20px 15px;
+    margin:20% 10%;
+    border-radius: 3%;
+}
+.model h1{
+    font-size: 48px;
+    text-align: center;
+}
+
+.model2{
+    background-color: white;
+    margin: 30px 50px 30px 50px;
+    padding: 40px 20px 20px 30px;
+    border-radius: 5%;
+}
+.model2 h4{
+    font-size: 25px;
+}
+.button3{
+    border: none;
+    color: white;
+    padding: 27px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-left: 70%;
+    background-color: rgb(58, 177, 179);
+    font-size: 25px;
+    border-radius: 8%;
+}
+#ypet1{
+    margin: 20px 130px;
+}
+.foot h2 span{
+    color: #12a8e8;
+}
+.fa-facebook-f{
+    color: white;
+    margin-left: 10px;
+    display: inline-block;
+    background-color: rgb(58, 177, 179);
+    padding: 5px;
+    border-radius: 40%;
+    margin-left: 130px;
+}
+.fa-twitter{
+    color: white;
+    margin-left: 10px;
+    display: inline-block;
+    background-color: red;
+    padding: 5px;
+    border-radius: 80%;
+
+}
+.fa-google-plus-g{
+    color: white;
+    margin-left: 10px;
+    display: inline-block;
+    background-color: rgb(58, 177, 179);
+    padding: 5px;
+    border-radius: 80%;
+}
+.fa-linkedin-in{
+    color: white;
+    margin-left: 10px;
+    display: inline-block;
+    background-color: rgb(58, 177, 179);
+    padding: 5px;
+    border-radius: 80%;
+}
+.a{
+    margin: -23% 35%;
+}
+.b{
+    margin:-23% 60%;
+}
+.c{
+    margin:-33% 85% ;
+}
+.footer{
+    padding-bottom: 23%;
+}
+.foot h4{
+    margin-left: 10%;
+}
+
+ 
+
+
